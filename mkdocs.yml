@@ -10,6 +10,8 @@ theme:
   palette:
     primary: teal
 
+    logo: site/assets/images/Logo.png
+
 # extra_css:
   # - stylesheets/custom.css
 
