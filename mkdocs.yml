@@ -4,6 +4,9 @@ site_name: FOSS KNOWLEDGE BASE
 theme:
   name: material
 
+  palette:
+    scheme: slate
+
 # extra_css:
   # - stylesheets/custom.css
 
