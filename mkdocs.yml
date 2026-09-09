@@ -6,6 +6,8 @@ theme:
 
   palette:
     scheme: slate
+
+  palette:
     primary: teal
 
 # extra_css:
