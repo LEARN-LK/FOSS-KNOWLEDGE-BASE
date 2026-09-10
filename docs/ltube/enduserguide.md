@@ -52,9 +52,9 @@ If your faculty, department, or unit requires a dedicated workspace to organize 
    - **List of Designated Channel Admins**
 2. Address the email to the LEARN FOSS team:
 
-
-foss-team@learn.ac.lk
-
+```text
+foss-team@learn.ac.lk 
+```
 
 
 ---
@@ -64,15 +64,24 @@ foss-team@learn.ac.lk
 Customize your profile details to ensure students can identify official course material.
 
 1. Click your avatar in the top-right menu and select **Settings** (or **Edit Profile**).
+
+<img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/kb/profile.png" style="
+    width: 60%; ">
+
+
 2. Update your profile information:
-* **Display Name:** Use your full academic title and name (e.g., *Dr. A. Perera - Dept. of Computer Science*).
+
+<img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/kb/edit-profile.png" style="
+    width: 60%; ">
+
+
+* **Display Name:**  is not editable in LTube
 * **Profile Picture:** Upload a headshot or department logo (`.png` / `.jpg`).
 * **Bio:** Add a short summary of your modules or department focus.
 
 
 3. Click **Save Changes**.
 
-*Figure 2: User profile menu and channel settings panel.*
 
 ---
 
