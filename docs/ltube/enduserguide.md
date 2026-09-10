@@ -17,12 +17,18 @@ Welcome to the official user guide for **LEARN Tube (LTube)** (`ltube.ac.lk`), t
 
 ---
 
+https://github.com/LEARN-LK/LTUBE/blob/main/images/kb/sign-in.png
+
+
 ## 1. Login & Authentication
 
 To start using LTube to upload or manage content, you must sign in using your university credentials via the **LEARN Identity Access Federation (LIAF)**.
 
 1. Open your web browser and navigate to [ltube.ac.lk](https://ltube.ac.lk).
 2. Click the **Sign In** button at the top-right corner of the page.
+
+ <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/kb/sign-in.png">
+
 3. Select your home institution from the LIAF directory.
 4. Enter your institutional username and password (`eduID`).
 
