@@ -61,6 +61,7 @@ Customize your profile details to ensure students can identify official course m
     width: 60%; ">
 
 2. Update your profile information.
+
 <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/kb/edit-profile.png" style="
     width: 60%; ">
 
