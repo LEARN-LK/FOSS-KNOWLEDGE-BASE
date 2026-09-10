@@ -1,125 +1,146 @@
-# End User Guide for LTUBE
 
-### Following guide is for the user to publish a video in LTUBe
+# LEARN Tube (LTube) User Guide
 
-**To try the following steps, you need to have an account from EduID**
+Welcome to the official user guide for **LEARN Tube (LTube)** (`ltube.ac.lk`), the open-source media streaming and publishing platform provided by the Lanka Education and Research Network (LEARN) for Sri Lankan state universities and higher education institutions.
 
+---
 
+## Table of Contents
+1. [Login & Authentication](#1-login--authentication)
+   - [1.1 Workspace Request for Faculties & Departments](#11-workspace-request-for-faculties--departments)
+2. [Edit Profile](#2-edit-profile)
+3. [Media Upload & Management](#3-media-upload--management)
+4. [Edit Video Details](#4-edit-video-details)
+5. [Publishing the Video](#5-publishing-the-video)
+6. [Creating & Managing Playlists](#6-creating--managing-playlists)
+7. [Reference & Support](#7-reference--support)
 
-<ol>
-     <li> First, access the LTUBE and sign in(https://ltube.learn.ac.lk) </li>
-     
-   <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/000%20not%20signed%20in%20page.png">
+---
 
+## 1. Login & Authentication
 
+To start using LTube to upload or manage content, you must sign in using your university credentials via the **LEARN Identity Access Federation (LIAF)**.
 
-   
-<!--2. Then log in using your EduId credentials
-     
-  img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/001%20log%20in%20page.png"-->
+1. Open your web browser and navigate to [ltube.ac.lk](https://ltube.ac.lk).
+2. Click the **Sign In** button at the top-right corner of the page.
+3. Select your home institution from the LIAF directory.
+4. Enter your institutional username and password (`eduID`).
 
+![LTube Login Screen](./assets/images/ltube-login.png)  
+*Figure 1: LTube Sign In button and LIAF identity provider selection.*
 
-   
-<li> Then Click on the upload media button </li>
-     
-   <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/002%20Click%20on%20Upload%20media%20button.png">
+---
 
+### 1.1 Workspace Request for Faculties & Departments
 
+If your faculty, department, or unit requires a dedicated workspace to organize content and manage team permissions:
 
-   
-<li> You will see this page </li>
-     
-   <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/003%20upload%20media%20page.png">
+1. Send an official request email including:
+   - **Faculty / Department Name**
+   - **Primary Contact Person & Institutional Email**
+   - **List of Designated Channel Admins**
+2. Address the email to the LEARN FOSS team:
 
 
+foss-team@learn.ac.lk
 
-   
- <li> Select your video file  </li>
-     
-   <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/004%20select%20file.png">
 
 
+---
 
+## 2. Edit Profile
 
- <li> Wait for the upload to finish, then click on the View media  </li>
-  
-     <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/005%20wait%20for%20uploading%2C%20then%20click%20on%20view%20media.png">
+Customize your profile details to ensure students can identify official course material.
 
+1. Click your avatar in the top-right menu and select **Settings** (or **Edit Profile**).
+2. Update your profile information:
+* **Display Name:** Use your full academic title and name (e.g., *Dr. A. Perera - Dept. of Computer Science*).
+* **Profile Picture:** Upload a headshot or department logo (`.png` / `.jpg`).
+* **Bio:** Add a short summary of your modules or department focus.
 
 
+3. Click **Save Changes**.
 
-<h2> Edit the details for the video </h2>
+*Figure 2: User profile menu and channel settings panel.*
 
- <li> Now click the "edit Media" button  </li>
-  
-     <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/006%20edit%20media%20page%20-%20click%20on%20edit%20media%20button.png">
+---
 
+## 3. Media Upload & Management
 
+LTube supports standard media file formats, including `.mp4`, `.mov`, `.mkv`, `.avi`, and `.mp3`.
 
- <li> Add relevant hashtags, from this first tab  </li>
-  
-     <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/007%20add%20relavent%20tags.png">
+1. Click the **Upload Media** icon in the top navigation menu.
+2. Drag and drop your media file into the upload zone, or click **Browse Files** to choose a file from your device.
+3. Keep the browser open until the raw upload finishes.
 
+> **Note:** LTube automatically encodes uploaded media into multiple resolutions in the background. You can fill out video details while encoding completes.
 
+*Figure 3: File upload and processing screen.*
 
+---
 
+## 4. Edit Video Details
 
- <li> Also add the Thumbnail for the video and enable comments  </li>
+Proper video details make lecture recordings easy to locate and categorize.
 
-     <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/008%20enable%20comments%20thumbnail%20second%20select.png">
+While your video processes, update the following fields:
 
+1. **Title:** Follow a consistent naming scheme (e.g., `SENG 1121 - Lecture 01: Introduction to Data Structures`).
+2. **Description:** Add a lecture summary, topic timestamps, and links to supplementary course material.
+3. **Category:** Choose your respective **Faculty** and **Department** from the drop-down list.
+4. **Tags:** Add relevant search tags separated by commas (e.g., `SENG1121, Data Structures, Year 1`).
+5. **Thumbnail:** Select an auto-generated thumbnail frame or upload a custom image (`1280x720` recommended).
 
+*Figure 4: Video details configuration panel.*
 
+---
 
- <li> From the Second Tab, you can edit the Video by trimming  </li>
+## 5. Publishing the Video
 
-      <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/009%20if%20you%20want%20trim%20the%20video.png">
+Set the appropriate access level before making your content live:
 
- <h2>Publishing the video  </h2>
+* **Public:** Searchable on LTube and visible on public feeds and category pages.
+* **Unlisted:** Hidden from search feeds; accessible only to users with the direct video URL or embedded LMS link.
+* **Private:** Accessible only to you and designated workspace managers.
 
+1. Choose **Public**, **Unlisted**, or **Private** in the **Privacy / Visibility** section.
+2. Review the details and click **Publish**.
 
- <li>  <b>In the Publish Tab  </b>, Please select the relevant category for the video, then go for publishing  </li>
-    
-     <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/010%20select%20relavent%20category%20public%20or%20private%20then%20publish.png">
+*Figure 5: Visibility settings and Publish button.*
 
+---
 
+## 6. Creating & Managing Playlists
 
+Playlists organize separate lecture recordings into sequential course series.
 
- <li>  Removing the video </li>
-   
-     <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/011%20deleting%20video.png">
+### Creating a Playlist
 
+1. Go to your **Dashboard** or **Channel** page.
+2. Open the **Playlists** tab and click **Create New Playlist**.
+3. Enter the **Playlist Title** (e.g., `SENG 1121: Data Structures - Semester 1`).
+4. Select the visibility status (**Public**, **Unlisted**, or **Private**).
+5. Click **Create**.
 
+### Adding & Ordering Videos
 
-<h2>Playlists</h2>
+1. Navigate to any uploaded video.
+2. Click **+ Save to Playlist** underneath the player and select the target playlist.
+3. In your playlist manager, click and drag items to order them chronologically (e.g., *Lecture 01* → *Lecture 02* → *Lecture 03*).
 
+*Figure 6: Creating playlists and arranging sequential content.*
 
+---
 
-<li> If you want to add the video to a playlist, click on the Save button. </li>
+## 7. Reference & Support
 
-      <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/012%20playlist%20create%20-%20save%20button.png">
+| Topic | Resource / Link |
+| --- | --- |
+| **LTube Portal** | [ltube.ac.lk](https://www.google.com/url?sa=E&source=gmail&q=https://ltube.ac.lk) |
+| **Knowledge Base** | [LEARN FOSS Knowledge Base](https://learn-lk.github.io/FOSS-KNOWLEDGE-BASE/ltube/enduserguide/) |
+| **Workspace Setup** | `foss-team@learn.ac.lk` |
+| **Technical Support** | Contact your University IT Center or the LEARN FOSS Team |
 
 
 
-<li> If you don't have playlists, then you can create them from the same popup </li>
-
-     <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/013%20save%20to%20menu.png">
-
-
-
-
-<li> create playlist as per your requirement </li>
-
-    <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/014%20create%20a%20new%20playlist.png">
-
-
-
-<li> then add to the relavent playlist by marking the check box </li>
-
-     <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/015%20select%20the%20playlist%20name.png">
-     
-<li>   then click save, it will add to the selected playlist </li>
-       
-   <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/016%20saved%20to%20playlist.png">
-
-</ol>
+```

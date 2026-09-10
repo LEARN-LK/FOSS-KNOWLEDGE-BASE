@@ -3,6 +3,7 @@ site_name: FOSS KNOWLEDGE BASE
 
 theme:
   name: material
+  logo: assets//logo.png
 
   palette:
     scheme: slate
@@ -10,8 +11,7 @@ theme:
   palette:
     primary: teal
 
-    logo: site/assets/images/Logo.png
-
+    
 # extra_css:
   # - stylesheets/custom.css
 
