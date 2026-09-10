@@ -30,10 +30,12 @@ To start using LTube to upload or manage content, you must sign in using your un
  <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/kb/sign-in.png">
 
 3. Select your home institution from the LIAF directory.
-4. Enter your institutional username and password (`eduID`).
 
-![LTube Login Screen](./assets/images/ltube-login.png)  
-*Figure 1: LTube Sign In button and LIAF identity provider selection.*
+<img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/kb/LIAF.png">
+
+4. Enter your institutional username and password (eg: `eduID`).
+
+<img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/kb/login.png">
 
 ---
 
