@@ -60,7 +60,7 @@ Customize your profile details to ensure students can identify official course m
 <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/kb/profile.png" style="
     width: 60%; ">
 
-2. Update your profile information:
+2. Update your profile information.
 <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/kb/edit-profile.png" style="
     width: 60%; ">
 
@@ -81,6 +81,7 @@ LTube supports standard media file formats, including `.mp4`, `.mov`, `.mkv`, `.
     width: 75%; ">
 
 2. Drag and drop your media file into the upload zone, or click **Browse Files** to choose a file from your device.
+
 <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/kb/browse-btn.png" style="
     width: 75%; ">
 
