@@ -5,7 +5,16 @@ Welcome to the official user guide for **LEARN Tube (LTube)** (`ltube.ac.lk`), t
 
 ---
 
+ <h2>[Video Guide - End User Guide for LEARN-TUBE]</h2>
+
+ <iframe width="560" height="315" src="https://ltube.ac.lk/embed?m=4rwSAnXFF" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+
 ## Table of Contents
+
 1. [Login & Authentication](#1-login--authentication).
    - [1.1 Workspace Request for Faculties & Departments](#11-workspace-request-for-faculties--departments)
 2. [Edit Profile](#2-edit-profile).
@@ -117,9 +126,18 @@ LTube supports standard media file formats, including `.mp4`, `.mov`, `.mkv`, `.
 
 ## 6. Publishing the Video
 
-1. Please select the relevant category for the video,
+When uploading a video, the configuration workflow is split across tabs (Metadata **[1]** - Trim **[2]** - Publish [**3]** ):
 
-2. Set the appropriate access level before making your content live:
+<img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/kb/flow.png" style="
+    width: 75%; ">
+
+1. Complete all necessary video details in the 1st tab **(Metadata) [1]**
+
+2. Once the metadata is filled out, click on the 3rd tab **(Publish) [3]** to configure the other options.
+
+3. Please select the relevant category for the video,
+
+4. Set the appropriate access level before making your content live:
 
 * **Public:** Searchable on LTube and visible on public feeds and category pages.
 * **Unlisted:** Hidden from search feeds; accessible only to users with the direct video URL or embedded LMS link.
@@ -129,7 +147,7 @@ LTube supports standard media file formats, including `.mp4`, `.mov`, `.mkv`, `.
 <img src="https://raw.githubusercontent.com/LEARN-LK/LTUBE/main/images/kb/publish.png" style="
     width: 75%; ">
 
-3. Review the details and click **Publish**.
+5. Review the details and click **Publish**.
 
 
 
